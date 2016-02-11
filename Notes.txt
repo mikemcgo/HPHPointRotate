@@ -1,0 +1,3 @@
+Compiling note: need to use -std=c++0x to compile with to_string in the file
+
+Small program created by Mike McGookey to rotate and scale points for the HPH team at the University of Michigan.  Accepts text files formatted as two columns of x and y coordinates. If you're file is not of this form it can be changed using excel and opening as a space delimited file. 
